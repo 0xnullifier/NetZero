@@ -1,0 +1,11 @@
+{
+  "extends": "./tsconfig.json",
+  "include": [
+    "./src/**/*.unit-test.ts",
+    "./src/lib/**/*.ts",
+    "./src/snarky.js"
+  ],
+  "compilerOptions": {
+    "outDir": "dist/node"
+  }
+}
