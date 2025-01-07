@@ -2,7 +2,7 @@
 
 NetZero as name suggests aims to verify that a Centralised Authority like a Centralised Exchange has zero net difference between assets and liabilites or confirms that a CEX is financially solvent.
 
-To read more about the topic checkout the [Proposal](https://github.com/0xnullifier/NetZero/tree/main/docs/Proposal.md)
+To read more about the topic checkout the [Proposal](https://github.com/0xnullifier/NetZero/blob/master/docs/Proposal.md)
 
 The current project is maintained as a MonoRepo if it grows too much I will refactor it to individual repos
 
