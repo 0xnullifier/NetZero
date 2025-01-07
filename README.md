@@ -1,6 +1,6 @@
 # NetZero Monorepo
 
-NetZero as name suggests aims to verify that a Centralised Authority like a Centralised Exchange has zero net differnce between assets and liabilites or confirms that a CEX is financially solvent.
+NetZero as name suggests aims to verify that a Centralised Authority like a Centralised Exchange has zero net difference between assets and liabilites or confirms that a CEX is financially solvent.
 
 To read more about the topic checkout the [Proposal](https://github.com/0xnullifier/NetZero/tree/main/docs/Proposal.md)
 
